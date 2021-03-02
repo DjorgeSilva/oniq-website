@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/oniq-website/static/js/main.6ad5f6df.chunk.js",
+    "main.js.map": "/oniq-website/static/js/main.6ad5f6df.chunk.js.map",
+    "runtime-main.js": "/oniq-website/static/js/runtime-main.ea8f7426.js",
+    "runtime-main.js.map": "/oniq-website/static/js/runtime-main.ea8f7426.js.map",
+    "static/css/2.150d169a.chunk.css": "/oniq-website/static/css/2.150d169a.chunk.css",
+    "static/js/2.625f40e5.chunk.js": "/oniq-website/static/js/2.625f40e5.chunk.js",
+    "static/js/2.625f40e5.chunk.js.map": "/oniq-website/static/js/2.625f40e5.chunk.js.map",
+    "index.html": "/oniq-website/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/oniq-website/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.625f40e5.chunk.js.LICENSE.txt": "/oniq-website/static/js/2.625f40e5.chunk.js.LICENSE.txt",
+    "static/media/about-1.72dadab4.png": "/oniq-website/static/media/about-1.72dadab4.png",
+    "static/media/logo-2.c4ab702e.png": "/oniq-website/static/media/logo-2.c4ab702e.png",
+    "static/media/logo11.a3bfa1d9.png": "/oniq-website/static/media/logo11.a3bfa1d9.png",
+    "static/media/service1.653a0fa1.png": "/oniq-website/static/media/service1.653a0fa1.png",
+    "static/media/service2.1b30d6b9.png": "/oniq-website/static/media/service2.1b30d6b9.png",
+    "static/media/service3.d59379fb.png": "/oniq-website/static/media/service3.d59379fb.png",
+    "static/media/service4.204e45b8.png": "/oniq-website/static/media/service4.204e45b8.png",
+    "static/media/service5.80fab9c6.jpg": "/oniq-website/static/media/service5.80fab9c6.jpg",
+    "static/media/service6.e12d16c6.png": "/oniq-website/static/media/service6.e12d16c6.png",
+    "static/media/service7.084c686a.png": "/oniq-website/static/media/service7.084c686a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8f7426.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.625f40e5.chunk.js",
+    "static/js/main.6ad5f6df.chunk.js"
+  ]
+}
