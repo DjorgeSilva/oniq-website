@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/oniq-website/static/js/main.6ad5f6df.chunk.js",
-    "main.js.map": "/oniq-website/static/js/main.6ad5f6df.chunk.js.map",
+    "main.js": "/oniq-website/static/js/main.89201e75.chunk.js",
+    "main.js.map": "/oniq-website/static/js/main.89201e75.chunk.js.map",
     "runtime-main.js": "/oniq-website/static/js/runtime-main.ea8f7426.js",
     "runtime-main.js.map": "/oniq-website/static/js/runtime-main.ea8f7426.js.map",
     "static/css/2.150d169a.chunk.css": "/oniq-website/static/css/2.150d169a.chunk.css",
-    "static/js/2.625f40e5.chunk.js": "/oniq-website/static/js/2.625f40e5.chunk.js",
-    "static/js/2.625f40e5.chunk.js.map": "/oniq-website/static/js/2.625f40e5.chunk.js.map",
+    "static/js/2.25f8b8c6.chunk.js": "/oniq-website/static/js/2.25f8b8c6.chunk.js",
+    "static/js/2.25f8b8c6.chunk.js.map": "/oniq-website/static/js/2.25f8b8c6.chunk.js.map",
     "index.html": "/oniq-website/index.html",
     "static/css/2.150d169a.chunk.css.map": "/oniq-website/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.625f40e5.chunk.js.LICENSE.txt": "/oniq-website/static/js/2.625f40e5.chunk.js.LICENSE.txt",
+    "static/js/2.25f8b8c6.chunk.js.LICENSE.txt": "/oniq-website/static/js/2.25f8b8c6.chunk.js.LICENSE.txt",
     "static/media/about-1.72dadab4.png": "/oniq-website/static/media/about-1.72dadab4.png",
     "static/media/logo-2.c4ab702e.png": "/oniq-website/static/media/logo-2.c4ab702e.png",
     "static/media/logo11.a3bfa1d9.png": "/oniq-website/static/media/logo11.a3bfa1d9.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea8f7426.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.625f40e5.chunk.js",
-    "static/js/main.6ad5f6df.chunk.js"
+    "static/js/2.25f8b8c6.chunk.js",
+    "static/js/main.89201e75.chunk.js"
   ]
 }
